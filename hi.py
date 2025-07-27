@@ -1,3 +1,3 @@
 print("Hi")
 for i in range(10):
-    print("no")
+    print("no yes")
